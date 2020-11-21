@@ -70,31 +70,31 @@
      <Compile Include="Assets\Scripts\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Scripts\UIButtonLevelLoad.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Área de Trabalho/RollerMadness/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/loren/OneDrive/Documentos/GitHub/RollerMadness/RollerMadness/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
