@@ -62,7 +62,7 @@ public class GameManager : MonoBehaviour {
 					gameState = gameStates.Death;
 
 					// set the end game score
-					gameOverScoreDisplay.text = mainScoreDisplay.text;
+					//gameOverScoreDisplay.text = mainScoreDisplay.text;
 
 					// switch which GUI is showing		
 					mainCanvas.SetActive (false);
@@ -106,7 +106,7 @@ public class GameManager : MonoBehaviour {
 	public void Collect(int amount) {
 		score += amount;
 		if (canBeatLevel) {
-			mainScoreDisplay.text = score.ToString () + " of "+beatLevelScore.ToString ();
+			mainScoreDisplay.text = score.ToString ();	// retiramos a parte do Of, por conta de alguns displays que escrevemos
 		} else {
 			mainScoreDisplay.text = score.ToString ();
 		}
